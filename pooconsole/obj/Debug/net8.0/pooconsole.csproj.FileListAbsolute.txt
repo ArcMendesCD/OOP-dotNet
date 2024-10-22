@@ -1,0 +1,14 @@
+C:\Users\Aula\source\repos\pooconsole\pooconsole\bin\Debug\net8.0\pooconsole.exe
+C:\Users\Aula\source\repos\pooconsole\pooconsole\bin\Debug\net8.0\pooconsole.deps.json
+C:\Users\Aula\source\repos\pooconsole\pooconsole\bin\Debug\net8.0\pooconsole.runtimeconfig.json
+C:\Users\Aula\source\repos\pooconsole\pooconsole\bin\Debug\net8.0\pooconsole.dll
+C:\Users\Aula\source\repos\pooconsole\pooconsole\bin\Debug\net8.0\pooconsole.pdb
+C:\Users\Aula\source\repos\pooconsole\pooconsole\obj\Debug\net8.0\pooconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\source\repos\pooconsole\pooconsole\obj\Debug\net8.0\pooconsole.AssemblyInfoInputs.cache
+C:\Users\Aula\source\repos\pooconsole\pooconsole\obj\Debug\net8.0\pooconsole.AssemblyInfo.cs
+C:\Users\Aula\source\repos\pooconsole\pooconsole\obj\Debug\net8.0\pooconsole.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\pooconsole\pooconsole\obj\Debug\net8.0\pooconsole.dll
+C:\Users\Aula\source\repos\pooconsole\pooconsole\obj\Debug\net8.0\refint\pooconsole.dll
+C:\Users\Aula\source\repos\pooconsole\pooconsole\obj\Debug\net8.0\pooconsole.pdb
+C:\Users\Aula\source\repos\pooconsole\pooconsole\obj\Debug\net8.0\pooconsole.genruntimeconfig.cache
+C:\Users\Aula\source\repos\pooconsole\pooconsole\obj\Debug\net8.0\ref\pooconsole.dll
